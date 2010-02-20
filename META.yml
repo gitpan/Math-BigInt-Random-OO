@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Math-BigInt-Random-OO
-version:            0.01
+version:            0.02
 abstract:           generate uniformly distributed Math::BigInt objects
 author:
     - Peter J. Acklam <pjacklam@cpan.org>
@@ -10,7 +10,8 @@ configure_requires:
     ExtUtils::MakeMaker:  0
 build_requires:
     ExtUtils::MakeMaker:  0
-requires:  {}
+requires:
+    Test::More:  0.94
 no_index:
     directory:
         - t
