@@ -2,6 +2,9 @@ Changes
 lib/Math/BigInt/Random/OO.pm
 Makefile.PL
 MANIFEST			This list of files
+Math_BigInt_Random_OO-pod2man.3pm
+Math_BigInt_Random_OO-pod2text-termcap.txt
+Math_BigInt_Random_OO-pod2text.txt
 META.yml
 README
 t/00-signature.t
